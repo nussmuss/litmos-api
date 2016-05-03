@@ -8,3 +8,9 @@ The code in getUserId.gs is heavily relied on for most of the API calls.
 
 For the complete Litmos API Documentation see:
 https://litmos.zendesk.com/forums/20551728-Developer-API
+
+Google Url Fetch Service Docs:
+https://developers.google.com/apps-script/reference/url-fetch/
+
+Google XmlService Docs:
+https://developers.google.com/apps-script/reference/xml-service/xml-service
