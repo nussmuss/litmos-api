@@ -7,7 +7,7 @@
  * @return nothing on error.
  * @return {function} Relies on the function getUserId to return the newly created ID.
  */
-function createUser(userName, firstName, lastName, fullName, email) {
+function createUser(userName, firstName, lastName, fullName, email, litmosToken) {
   Logger.log("Init function.");
 
 var userInfo = 
