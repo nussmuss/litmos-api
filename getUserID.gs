@@ -7,7 +7,7 @@
  * @return {string} Litmos User ID.
  * @return {undefined} If no user found.
  */
-function getUserId(searchTerm) {
+function getUserId(searchTerm, litmosToken) {
 
   var headers = {
   'content-type': 'text/xml'
